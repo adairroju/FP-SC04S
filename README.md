@@ -4,3 +4,7 @@
 #### Título 4
 ##### Título 5
 ###### Título 6
+
+* Bullet 1
+* Bullet 2
+* Bullet 3
