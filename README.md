@@ -23,4 +23,4 @@ Párrafo
 
 ![Descripción Imagen](https://concepto.de/wp-content/uploads/2020/08/Programacion-informatica-scaled-e1724960033513.jpg)
 
-![Imagen propia](https://github.com/adairroju/FP-SC04S/blob/main/Gatito.png?raw=true)
+![Imagen propia](https://github.com/adairroju/FP-SC04S/blob/Images/Gatito.png?raw=true)
