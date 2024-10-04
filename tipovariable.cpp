@@ -1,5 +1,4 @@
-// Proyecto 29-09-24.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
+// Trabajo 29-09-2024
 
 #include <iostream> //Biblioteas
 using namespace std; //evita tener que usar std con doble punto en cada línea
