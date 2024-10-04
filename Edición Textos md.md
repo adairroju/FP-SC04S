@@ -13,6 +13,6 @@
 2. Dos
 3. Tres
 
-**Negritas**
-_Itálika_
-***Negritas Itálika***
+**Negritas**;
+_Itálika_;
+***Negritas Itálika***;
