@@ -13,9 +13,13 @@
 2. Dos
 3. Tres
 
-**Negritas**
-_Itálika_
-***Negritas Itálika***
+**Negritas** <br>
+_Itálika_ <br>
+***Negritas Itálika*** <p>
+
+Salto de línea <br>
+Salto de párrafo <p>
+Párrafo
 
 ![Descripción Imagen](https://concepto.de/wp-content/uploads/2020/08/Programacion-informatica-scaled-e1724960033513.jpg)
 
