@@ -1,5 +1,4 @@
-// ConsoleApplication1.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
+// Trabajo en clase 30/09/2024
 
 using namespace std;
 //Evita tener que usar std en cada renglón
